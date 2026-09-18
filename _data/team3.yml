@@ -56,18 +56,28 @@
   education2: Mentored by Mayaz Uddin Gazi
   education3:
   education4:
-
-  - name: Bella Salzbrunn
-  photo: Bella.png
+  
+- name: Shaine Ghent
+  photo: shaine.jpeg
   info: 
   Work time: 
   number_educ: 2
-  education1: Spring 2026 semester
-  education2: Mentored by Dr. Liu on Molecular Simulation 
+  education1: Fall 2026 semester
+  education2: Mentored by Mayaz Uddin Gazi
   education3:
   education4:
 
-- name: "This could be you ! - Welcome to join us"
+- name: Graham Faris
+  photo: graham.jpg
+  info: 
+  Work time: 
+  number_educ: 2
+  education1: Fall 2026 semester
+  education2: Mentored by Mayaz Uddin Gazi 
+  education3:
+  education4:
+
+- name: "This could be you! - Welcome to join us"
   photo: um.jpg
   info: Welcome to join us!
   email:  Please contact us by <a href="mxl2120@miami.edu">Email - mxl2120@miami.edu</a>
