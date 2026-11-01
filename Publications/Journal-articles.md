@@ -8,10 +8,6 @@ permalink: /publications/journal-articles/
 
 For a complete and continuously updated publication record, please visit Professor Xianming Shi's [Google Scholar Profile](https://scholar.google.com/citations?user=NqPzp04AAAAJ&hl=en).
 
-*A single asterisk (\*) indicates an undergraduate student.*
-
-*Double asterisks (\*\*) indicate a graduate student.*
-
 *Underlined names represent corresponding authors.*
 
 ---
@@ -42,7 +38,7 @@ For a complete and continuously updated publication record, please visit Profess
 
 2. He, J., Deng, Y., & **<u>Shi, X.</u>** (2025). *Quantitative analysis of pore structures and microcracks in self-healing concrete after freeze-thaw exposure: An X-ray computed tomography-based approach.* **Cement and Concrete Composites**, 162, 106105.
 
-3. Shahmansouri, A. A.\*, Zhang, Z., AzariJafari, H., & **<u>Shi, X.</u>** (2025). *Biochar-amended high-strength engineered cementitious composites.* **Cement and Concrete Composites**, 106219.
+3. Shahmansouri, A. A., Zhang, Z., AzariJafari, H., & **<u>Shi, X.</u>** (2025). *Biochar-amended high-strength engineered cementitious composites.* **Cement and Concrete Composites**, 106219.
 
 4. Zhou, Z., He, J., Deng, Y., & **<u>Shi, X.</u>** (2025). *Improving the protective performance of discrete Zn-based sacrificial anode by increasing porosity and alkali concentration of its encapsulation matrix.* **Cement and Concrete Composites**, 163, 106200.
 
@@ -70,16 +66,16 @@ For a complete and continuously updated publication record, please visit Profess
 
 3. Deng, Y., & **<u>Shi, X.</u>** (2024). *Short-Term Prediction of Short-term Asphalt Pavement Rutting Using Deep Learning Models.* **Journal of Transportation Engineering, Part B: Pavements**, 150(2), 04024004.
 
-4. Zhang, Z., Li, Z.\*\*, He, J., Qian, S., & **<u>Shi, X.</u>** (2024). *Recycled Mask Polypropylene Microfibers Benefit Tensile Properties and Prevent Thermally Induced Spalling of High-Strength Engineered Cementitious Composite (HS-ECC).* **Journal of Cleaner Production**. DOI: [10.1016/j.jclepro.2024.142476](https://doi.org/10.1016/j.jclepro.2024.142476).
+4. Zhang, Z., Li, Z., He, J., Qian, S., & **<u>Shi, X.</u>** (2024). *Recycled Mask Polypropylene Microfibers Benefit Tensile Properties and Prevent Thermally Induced Spalling of High-Strength Engineered Cementitious Composite (HS-ECC).* **Journal of Cleaner Production**. DOI: [10.1016/j.jclepro.2024.142476](https://doi.org/10.1016/j.jclepro.2024.142476).
 
-5. Gong, J., Qian, Y., Xu, Z., Chen, C., Jin, Y., Zhang, J., Li, Z.\*\*, & **<u>Shi, X.</u>** (2024). *Effect of Graphene Oxide on the Properties of Ternary Limestone Clay Cement Paste.* **Nanotechnology Reviews**, 13(1), 20230222.
+5. Gong, J., Qian, Y., Xu, Z., Chen, C., Jin, Y., Zhang, J., Li, Z., & **<u>Shi, X.</u>** (2024). *Effect of Graphene Oxide on the Properties of Ternary Limestone Clay Cement Paste.* **Nanotechnology Reviews**, 13(1), 20230222.
 
-6. He, J., Aloundeth, T.\*, Li, Z., & **<u>Shi, X.</u>** (2024). *Chemical Impacts of MgCl₂ on Ordinary Portland Cement and High-Volume Fly Ash Mortars.* **Concrete International**, 46(5), 34-41.
+6. He, J., Aloundeth, T., Li, Z., & **<u>Shi, X.</u>** (2024). *Chemical Impacts of MgCl₂ on Ordinary Portland Cement and High-Volume Fly Ash Mortars.* **Concrete International**, 46(5), 34-41.
 
 7. He, J., Manawadu, A., Deng, Y., Zhao, J., & **<u>Shi, X.</u>** (2024). *Frost Durability and Service Life Prediction of Self-Healing Concrete.* **ACI Materials Journal**, 121(5), 23-38.
 
-8. Li, Z.\*\*, Zhang, Z., He, J., & **<u>Shi, X.</u>** (2024). *Graphene Oxide-Pretreated Waste Medical Mask Microfiber-Reinforced Cement Composites: Frost Damage Modeling and Chloride Migration.* **Journal of Materials in Civil Engineering**, 36(1). DOI: [10.1061/JMCEE7.MTENG-16371](https://doi.org/10.1061/JMCEE7.MTENG-16371).
+8. Li, Z., Zhang, Z., He, J., & **<u>Shi, X.</u>** (2024). *Graphene Oxide-Pretreated Waste Medical Mask Microfiber-Reinforced Cement Composites: Frost Damage Modeling and Chloride Migration.* **Journal of Materials in Civil Engineering**, 36(1). DOI: [10.1061/JMCEE7.MTENG-16371](https://doi.org/10.1061/JMCEE7.MTENG-16371).
 
-9. Fan, L., Li, Z.\*\*, Du, S.\*\*, & **<u>Shi, X.</u>** (2024). *Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles.* **Journal of Materials in Civil Engineering**, 36(2). DOI: [10.1061/JMCEE7.MTENG-1637](https://doi.org/10.1061/JMCEE7.MTENG-1637).
+9. Fan, L., Li, Z., Du, S., & **<u>Shi, X.</u>** (2024). *Beetroot Juice Additive in Chloride Brines Reduces the Damage of Portland Cement Concrete Exposed to Freeze/Thaw Cycles.* **Journal of Materials in Civil Engineering**, 36(2). DOI: [10.1061/JMCEE7.MTENG-1637](https://doi.org/10.1061/JMCEE7.MTENG-1637).
 
 10. Deng, Y., Wang, H., & **<u>Shi, X.</u>** (2024). *Physics-Guided Neural Network for Predicting Asphalt Mixture Rutting with Balanced Accuracy, Stability and Rationality.* **Neural Networks**. DOI: [10.1016/j.neunet.2023.12.039](https://doi.org/10.1016/j.neunet.2023.12.039).
